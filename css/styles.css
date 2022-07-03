@@ -11006,6 +11006,7 @@ body #pagebody .mission {
   float: left;
   display: table;
   width: 88vw;
+  margin-left: -13em;
 }
 
 body #pagebody .mission .vision-cntr .vision-image-cntr.grid-6 {
@@ -11018,7 +11019,7 @@ body #pagebody .mission .vision-cntr .grid-6 {
   vertical-align: middle;
   height: 100%;
   float: none;
-  font-size: 2.3vw;
+  font-size: 1em !important;
 }
 
 body #pagebody .mission .vision-cntr .vision h1,
@@ -11037,6 +11038,7 @@ body .social-box {
 
 body .social-box .copyTxt {
   padding: 5px;
+  text-align: center;
   margin-top: 1vw;
   font-size: 1vw;
   color: #fcfcfc;

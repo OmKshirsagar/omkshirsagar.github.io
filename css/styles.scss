@@ -20,6 +20,7 @@ body {
       float: left;
       display: table;
       width: 88vw;
+      margin-left: -1em;
       .vision-cntr {
         .vision-image-cntr.grid-6 {
           width: 45vw;
@@ -33,7 +34,7 @@ body {
           vertical-align: middle;
           height: 100%;
           float: none;
-          font-size: 2.3vw;
+          font-size: 1em;
         }
       }
     }
@@ -46,6 +47,7 @@ body {
     float: right;
     background-color: black;
     .copyTxt {
+      text-align: center;
       padding: 5px;
       margin-top: 1vw;
       font-size: 1vw;
